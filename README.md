@@ -1,4 +1,4 @@
-<h1>Hi, I'm Raihan! <br/>This is my Portfolio Project for Data Analyst or Data Engineer</h1>
+<h1>Hi, I'm Raihan! <br/>This is my Portfolio Project for Data Analyst/Scientist</h1>
 
 <h2>Introduction</h2>
 
